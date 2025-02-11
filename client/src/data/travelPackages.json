@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "destination": "Santorini, Greece",
+      "image": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?q=80&w=800",
+      "duration": "6D/5N",
+      "price": "$1,299",
+      "description": "Experience the magic of white-washed buildings, blue domes, and spectacular sunsets. Luxury cave hotels and infinity pools await."
+    },
+    {
+      "destination": "Maldives",
+      "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?q=80&w=800",
+      "duration": "5D/4N",
+      "price": "$1,899",
+      "description": "Escape to overwater villas, crystal-clear lagoons, and pristine beaches. Ultimate luxury meets tropical paradise."
+    },
+    {
+      "destination": "Swiss Alps",
+      "image": "https://images.unsplash.com/photo-1531310197839-ccf54634509e?q=80&w=800",
+      "duration": "7D/6N",
+      "price": "$2,099",
+      "description": "Discover snow-capped peaks, scenic train rides, and cozy chalets. Perfect blend of adventure and comfort in breathtaking landscapes."
+    }
+  ]
+} 
